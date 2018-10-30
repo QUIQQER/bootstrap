@@ -1,9 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <locales>
-  <groups name="quiqqer/bootstrap" datatype="php,js">
-    <locale name="package.title">
-      <de><![CDATA[Bootstrap]]></de>
-      <en><![CDATA[Bootstrap]]></en>
-    </locale>
-  <locale name="package.description"><de><![CDATA[Bootrap CSS Framework für QUIQQER.]]></de><en><![CDATA[Boostrap CSS framework for QUIQQER.]]></en></locale></groups>
+    <groups name="quiqqer/bootstrap" datatype="php,js">
+        <locale name="package.title">
+            <de><![CDATA[Bootstrap]]></de>
+            <en><![CDATA[Bootstrap]]></en>
+        </locale>
+        <locale name="package.description">
+            <de><![CDATA[Boostrap CSS Framework für QUIQQER.]]></de>
+            <en><![CDATA[Boostrap CSS framework for QUIQQER.]]></en>
+        </locale>
+    </groups>
 </locales>
