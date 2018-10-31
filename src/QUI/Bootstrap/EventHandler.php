@@ -39,7 +39,7 @@ class EventHandler
      */
     public static function bootstrap()
     {
-        return '<link href="' . URL_OPT_DIR . 'quiqqer/bootstrap/css/bootstrap.css"
+        return '<link href="' . URL_OPT_DIR . 'bin/bootstrap/dist/css/bootstrap.css"
           rel="stylesheet"
           type="text/css"
                />';
