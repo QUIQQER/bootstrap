@@ -17,7 +17,7 @@
         "url": "http://www.pcsg.de"
     },
     "require": {
-        "twbs/bootstrap" : "v4.1.*"
+        "npm-asset/bootstrap" : "v4.1.*"
     }
     ,"autoload": {
   "psr-4": {
