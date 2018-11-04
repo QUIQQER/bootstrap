@@ -15,9 +15,6 @@
     "support" : {
         "email": "support@pcsg.de",
         "url": "http://www.pcsg.de"
-    },
-    "require": {
-        "npm-asset/bootstrap" : "v4.1.*"
     }
     ,"autoload": {
   "psr-4": {
