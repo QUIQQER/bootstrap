@@ -1,0 +1,22 @@
+.container, .grid-container {
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto;
+    max-width :100%;
+}
+@media (min-width: 768px) {
+    .container, .grid-container {
+        width: 750px;
+    }
+}
+@media (min-width: 992px) {
+    .container, .grid-container {
+        width: 970px;
+    }
+}
+@media (min-width: 1200px) {
+    .container, .grid-container {
+        width: 1170px;
+    }
+}
