@@ -2,7 +2,7 @@
     "name" : "quiqqer/bootstrap",
     "type" : "quiqqer-plugin",
     "description" : "Bootstrap CSS framework for QUIQQER",
-    "version" : "dev-dev",
+    "version" : "dev-master",
     "license" : "GPL-3.0+",
     "authors" : [
         {
