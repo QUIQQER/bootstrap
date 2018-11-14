@@ -1,40 +1,60 @@
-bootstrap
+![QUIQQER Bootstrap](bin/img/Readme.jpg)
+
+Bootstrap
 ========
 
 Bootstrap CSS framework for QUIQQER
 
-Paketname:
+Package name:
 
     quiqqer/bootstrap
 
 
-Features (Funktionen)
+Features
 --------
+
+- Delivers generated *Bootstrap* file that contains *Unsemantic* grid classes (**bootstrap-unsemantic.css**). 
+  Require this file in <head> of your main HTML file if your project uses mixed frameworks. 
+ 
+```html
+<link href="{$URL_OPT_DIR}quiqqer/bootstrap/bin/css/bootstrap-unsemantic.css" rel="stylesheet" type="text/css"/>
+```
 
 
 Installation
 ------------
 
-Der Paketname ist: quiqqer/bootstrap
+The package name ist: quiqqer/bootstrap
 
 
 Mitwirken
 ----------
 
-- Issue Tracker: 
-- Source Code: 
+- Issue Tracker: https://dev.quiqqer.com/quiqqer/bootstrap/issues
+- Source Code: https://dev.quiqqer.com/quiqqer/bootstrap/tree/master 
 
 
 Support
 -------
 
-Falls Sie einen Fehler gefunden haben oder Verbesserungen wünschen,
-senden Sie bitte eine E-Mail an support@pcsg.de.
+If you found any flaws, have any wishes or suggestions you can send an email
+to [support@pcsg.de](mailto:support@pcsg.de) to inform us about your concerns. 
+We will try to respond to your request and forward it to the responsible developer.
 
 
-Lizenz
+Licence
 -------
 
+MIT
 
-Entwickler
---------
+Developer
+---------
+If you have to regenerate te **bootstrap-unsemantic.css** file 
+use the simple script`generateBootstrapFile.php` in CLI
+
+```bash
+# go to the package folder
+cd (...)
+# run this command
+php /scripts/generateBootstrapFile.php
+```
