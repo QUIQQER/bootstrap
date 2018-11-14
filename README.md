@@ -47,9 +47,9 @@ Licence
 
 MIT
 
-Developer
+Usage
 ---------
-If you have to regenerate te **bootstrap-unsemantic.css** file 
+If you have to regenerate the **bootstrap-unsemantic.css** file 
 use the simple script`generateBootstrapFile.php` in CLI
 
 ```bash
