@@ -56,5 +56,5 @@ use the simple script`generateBootstrapFile.php` in CLI
 # go to the package folder
 cd (...)
 # run this command
-php /scripts/generateBootstrapFile.php
+php scripts/generateBootstrapFile.php
 ```
