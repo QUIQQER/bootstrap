@@ -1,4 +1,4 @@
-![QUIQQER Bootstrap](bin/img/Readme.jpg)
+![QUIQQER Bootstrap](bin/img/Readme.png)
 
 Bootstrap
 ========
