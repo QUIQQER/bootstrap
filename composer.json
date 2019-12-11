@@ -1,19 +1,18 @@
 {
-    "name" : "quiqqer/bootstrap",
-    "type" : "quiqqer-plugin",
-    "description" : "Bootstrap CSS framework for QUIQQER",
-    "version" : "dev-dev",
-    "license" : "MIT",
-    "authors" : [
+    "name": "quiqqer\/bootstrap",
+    "type": "quiqqer-plugin",
+    "description": "Bootstrap CSS framework for QUIQQER",
+    "license": "MIT",
+    "authors": [
         {
             "name": "Michael Danielczok",
             "email": "michael@pcsg.de",
-            "homepage": "https://www.pcsg.de",
+            "homepage": "https:\/\/www.pcsg.de",
             "role": "Developer"
         }
     ],
-    "support" : {
+    "support": {
         "email": "support@pcsg.de",
-        "url": "https://www.pcsg.de"
+        "url": "https:\/\/www.pcsg.de"
     }
 }
